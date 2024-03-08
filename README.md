@@ -27,6 +27,7 @@ Divvy Bikeshare is the primary bikesharing medium in the city of Chicago. Those 
 4. Number of Rides Notably Decreases in Winter Months
   - Number of rides taken decreases signiifcantly in the winter months, and usage peaks in July.
 <img width="251" alt="Screen Shot 2024-03-08 at 3 14 46 PM" src="https://github.com/stephaniegoodman/bikeshareanalysis/assets/65201326/5aea4a66-9e04-45bc-90cc-0db20423bf22">
+
 5.Annual Members Take More Trips Overall
     - Regardless of seasonality, members took more bike rides than casual users.
       
