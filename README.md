@@ -39,7 +39,7 @@ Divvy Bikeshare is the primary bikesharing medium in the city of Chicago. Those 
 2. Advertise exclusive promotions or benefits for annual members during high usage periods, including weekends and holidays.
 3. Offer "weekday" or "commute" discounts to promote weekday and off-season bike usage.
 4. Use creative strategies to reward longer bike trips for annual users, such as weekly/quarterly/annual usage reports.
-5. Send out a suer survey to annual memebrs inquiringn about what led them to convert from casual to member status.
+5. Send out a user survey to annual memebrs inquiringn about what led them to convert from casual to member status.
 
 
 
