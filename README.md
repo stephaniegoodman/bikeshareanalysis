@@ -2,7 +2,7 @@
 Divvy Bikeshare is the primary medium for rented bicycle transportation in the city of Chicago. Those who use the platform have the option to pay for individual usage as a casual user, or become a member by paying an annual subscription. Over the past year, Divvy stakeholders have continously reviewed revenue, and requested a formal analysis on the 2022-2023 fiscal year to review rider trends, and note the key differences between casual and member usage. Upon completion of this analysis, the data team will present on these findings and provide data-driven suggestions regarding Key Performance Indicators (KPIs) such as average ride length, percentage of rides by user type, and frequency of usage. 
 
 ## Process-Driven Documentation and Deliverables
-- Full stakeholder presentation with insights, visuals, and recommendations can be found (here)<https://github.com/stephaniegoodman/bikeshareanalysis/raw/main/2023_07_Divvy%20Bike%20Share%20Analysis_Stephanie%20Goodman.pptx>.
+- Full stakeholder presentation with insights, visuals, and recommendations can be found <https://github.com/stephaniegoodman/bikeshareanalysis/raw/main/2023_07_Divvy%20Bike%20Share%20Analysis_Stephanie%20Goodman.pptx>(here).
 - R Script with records of all data loading, cleaning, transformation, and visualization can be found here.
 - Cleaned excel spreadsheet for a single month out of the 12 month aggregation, with pivot tables can be found here.
 
