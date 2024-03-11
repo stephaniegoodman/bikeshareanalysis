@@ -6,7 +6,7 @@ Divvy Bikeshare is the primary medium for rented bicycle transportation in the c
 - R Script with records of all data loading, cleaning, transformation, and visualization can be found [here](https://github.com/stephaniegoodman/bikeshareanalysis/blob/5149892fa49134ce5f8caf086c3163e8fd4caaec/divvybikeshare.r).
 - Cleaned excel spreadsheet for a single month out of the 12 month aggregation, with pivot tables can be found [here](https://github.com/stephaniegoodman/bikeshareanalysis/raw/main/2022_12-Divvy-TripData.xlsx)*.
 
-  * = denotes download link. This resource can also be accessed on this repository
+-  * = denotes download link. This resource can also be accessed on this repository
 
 ## High Level Analysis
 1. Members tend to take more Divvy rides year-round
